@@ -1,6 +1,6 @@
 package com.mootrius.ironman;
 import net.runelite.client.config.*;
-@ConfigGroup("mootriusironman")
+@ConfigGroup("mootriusIronmanProgression")
 public interface MootriusConfig extends Config {
  @ConfigItem(keyName="completed",name="Legacy completed steps",description="Existing progress; retained for migration",hidden=true)
  default String completed(){return "";}
