@@ -13,7 +13,12 @@ import net.runelite.client.ui.ClientToolbar;
 import net.runelite.client.ui.NavigationButton;
 import net.runelite.client.ui.overlay.OverlayManager;
 
-@PluginDescriptor(internalName="mootrius-ironman-helper", name="Mootrius Ironman Helper", description="Unofficial Ironman progression tracker based on Mootrius's guide", tags={"ironman","guide","progression"})
+@PluginDescriptor(
+        name = "Mootrius Ironman Guide",
+        description = "An interactive Ironman progression guide based on Mootrius's OSRS Ironman Guide.",
+        tags = {"ironman", "guide", "progression", "checklist"},
+        internalName = "mootrius-ironman-guide"
+)
 public class MootriusPlugin extends Plugin {
  @Inject private ClientToolbar toolbar;
  @Inject private ConfigManager configManager;
