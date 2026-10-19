@@ -1,0 +1,4251 @@
+[
+  {
+    "section": "Introduction",
+    "page": 3,
+    "entries": [
+      {
+        "text": "Hi, I'm Mootrius!",
+        "type": "note",
+        "page": 3
+      },
+      {
+        "text": "This guide's purpose is twofold: to help me plan/document my own progress, as well as allow viewers to track their own progress if they choose to follow a similar path.",
+        "type": "note",
+        "page": 3
+      },
+      {
+        "text": "This is by no means as efficient a guide as, for example, BRUHsailer, but it does go into more detail than the Wiki's Ironman Guide. It follows a path I created to be a good combination of fun and efficiency. As such, you may find things that you would do differently — and that's fine! Feel free to deviate from it in any way you see fit, branching off however and whenever you'd like.",
+        "type": "note",
+        "page": 3
+      },
+      {
+        "text": "One thing you'll notice about this guide is that, due to the nature of chronologically reading it top-to-bottom, there are a lot of grinds that may come across as me saying \"Do this from start to finish before doing anything else\". I definitely think it's a good idea in general to break up your more active grinds with some AFK ones — and vice-versa. So, be sure to read a bit ahead before you start a section in order to find those things you can alternate between doing for your own sanity and to avoid burnout!",
+        "type": "note",
+        "page": 3
+      },
+      {
+        "text": "Hello from Mootrius!",
+        "type": "note",
+        "page": 3
+      },
+      {
+        "text": "If you're interested in a video format for the guide, you can find that here (https://www.youtube.com/ watch?v=BOgN7nAkOI8) (just be aware that the video version lacks the full detail that this Wiki version has).",
+        "type": "note",
+        "page": 3
+      },
+      {
+        "text": "If you have any questions at all, feel free to ask in my Discord server (https://discord.gg/mootrius)!",
+        "type": "note",
+        "page": 3
+      },
+      {
+        "text": "All in all, I hope you enjoy it!",
+        "type": "note",
+        "page": 3
+      },
+      {
+        "text": "— Mootrius",
+        "type": "note",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "section": "Getting Started",
+    "page": 3,
+    "entries": [
+      {
+        "text": "Right off of Tutorial Island, we're gonna get started with solving three things: money, prayer, and food. Doing so will provide us with an incredibly solid foundation for the rest of the account's progression.",
+        "type": "note",
+        "page": 3
+      },
+      {
+        "text": "We'll be focusing specifically on getting the Rogue's outfit and unlocking moonlight moth mixes and karambwans. More detail is provided below as to why we want these things so very much — and believe me when I say we do! Once you've gotten through this beginning section, you'll be very well set up for the quests, skilling, and PvM to come.",
+        "type": "note",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "section": "Solving Money",
+    "page": 4,
+    "entries": [
+      {
+        "text": "Our first goal is to solve the money problem — that problem being that money is necessary for buying things, and we don't have any yet!",
+        "type": "note",
+        "page": 4
+      },
+      {
+        "text": "The majority of our gold in the early game will be derived from thieving methods with the Rogue's outfit. There will be room here for both AFK and efficient methods, so you may choose which you'd like to do based on your preference and the amount of attention you have to pay (i.e. AFK methods during work, efficient methods during active playtime).",
+        "type": "note",
+        "page": 4
+      },
+      {
+        "text": "Getting the Rogue's Outfit",
+        "type": "note",
+        "page": 4
+      },
+      {
+        "text": "Bank everything from Tutorial Island upstairs in the Lumbridge Castle.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Pickpocket men until level 5 Thieving.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Steal from the Ardougne baker's stalls until level 25 Thieving.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Steal from Hosidius fruit stalls until 42.5 Thieving.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Complete the Stronghold of Security for 10k coins.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Buy a staff of air from Zaff's shop.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Buy mind, water, earth, and fire runes from Aubury.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Kill hill giants in the Edgeville Dungeon until 25 Magic (bank the big bones).",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Complete The Feud, safespotting both bosses.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Blackjack until 50 Thieving.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Train Agility to 20 via the Draynor rooftop course.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Train Agility to 30 via the Al Kharid rooftop course.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Train Agility to 40 via the Varrock rooftop course.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Complete the Waterfall Quest.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Complete the Rune Mysteries quest.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Complete the Priest in Peril quest.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Train Agility to 50 via the Canifis rooftop course.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Get the Rogue's outfit from the Rogues' Den minigame.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Complete the Children of the Sun quest.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Do a combination of blackjacking and wealthy citizens until 60 Thieving.",
+        "type": "task",
+        "page": 4
+      },
+      {
+        "text": "Once you've completed the above steps, you'll be all set for money for the foreseeable future. Anytime you're low on money, either blackjack in Pollnivneach or pickpocket wealthy citizens in Civitas illa Fortis. This mix of Thieving activities should give you plenty of opportunity to make money either while AFKing or actively playing.",
+        "type": "note",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "section": "Solving Prayer",
+    "page": 5,
+    "entries": [
+      {
+        "text": "Next we'll want to solve the problem of needing prayer restoration. There are various combat training methods and quests that we'll want to be able to use the protection prayers during, so it's time to work on that!",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "We'll be working toward unlocking moonlight moth mixes via training our Hunter until level 75. This will be done primarily through hunter rumours, which give not only the Hunter training we need, but also a myriad of other rewards that are incredibly useful on an ironman account.",
+        "type": "note",
+        "page": 5
+      },
+      {
+        "text": "The main draw of these moonlight moth mixes is that they make us much less \"ranarr-dependent\" — meaning we won't have nearly as much need to focus an inordinate amount of our time on constantly getting seeds and herbs.",
+        "type": "note",
+        "page": 5
+      },
+      {
+        "text": "Unlocking Moonlight Moth Mixes",
+        "type": "note",
+        "page": 5
+      },
+      {
+        "text": "Buy/deposit 800 buckets of sand and 800 soda ash on the Catherby docks.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Train Crafting to 31 by making molten glass at the Edgeville furnace.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Train Woodcutting to 36 and Firemaking to 30 via Forestry.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Kill hill giants with Magic in the Edgeville Dungeon until you have ~200 big bones.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Complete The Restless Ghost.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Complete the Nature Spirit quest.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Complete the Lost City quest.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Buy some law and cosmic runes from Lundail at the Mage Arena bank.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Telegrab gold bars from the Varrock West Bank basement.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Buy some emeralds from the Ardougne Gem Stall shop.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Make some rings of dueling.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Use enough big bones at the Chaos Altar (running from Ferox Enclave) to get 30 prayer.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Complete the Fairytale I quest.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Complete enough of the Fairytale II quest to unlock the use of fairy rings.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Complete the Plague City quest.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Complete the Biohazard quest.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Complete the Ardougne Easy Diary.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Complete the Varrock Museum Natural History Quiz.",
+        "type": "task",
+        "page": 5
+      },
+      {
+        "text": "Train Hunter until level 46 however you like (some ideas here).",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Train Hunter until level 75 via hunter rumours.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Complete the Twilight's Promise quest.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Use all of your blessed bone shards at the libation bowl at The Teomat.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Catch as many moonlight moths as you'd like to have moonlight moth mixes.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "After the above steps have been completed, you should have at least 43 Prayer and the ability to catch moonlight moths. I'd recommend catching dashing kebbits for the hunter meat to make the mixes any time you run out in the future, as they're super easy to get to and fast to catch. For now, feel free to catch as many or as few moonlight moths as you want — what's important now is that you have solved Prayer!",
+        "type": "note",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "section": "Solving Food",
+    "page": 6,
+    "entries": [
+      {
+        "text": "Lastly for our solving of things, we're gonna be working on food. We can already pray against most damage with the Prayer solving we did in the last step, but now it's time to work on getting some hard food to eat.",
+        "type": "note",
+        "page": 6
+      },
+      {
+        "text": "Karambwans are an ironman's best friend when it comes to food, and for a few reasons. They're super easy to get, the Fishing method for them is incredibly AFK, and they're also a type of \"fast food\", meaning they have either a shorter or a nonexistent delay when you eat them. This allows you to get back to attacking faster after eating them. But for whatever reason you prefer, it's time to get going on getting them!",
+        "type": "note",
+        "page": 6
+      },
+      {
+        "text": "Unlocking Karambwans",
+        "type": "note",
+        "page": 6
+      },
+      {
+        "text": "Complete the Sea Slug quest.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Complete the Fishing Contest quest.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Buy and cook raw sardines from Gerrant until 20 Cooking.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Fish and cook salmon and trout at Barbarian Village until 35 Fishing.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Subdue Tempoross until 65 Fishing (solo preferred, mass okay).",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Cook all of your raw fish from the reward pool.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Complete the Druidic Ritual quest.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Complete the Jungle Potion quest.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Kill ~50 skeletons near Tarn's Lair for two agility potions (2).",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Complete the Tai Bwo Wannai Trio quest.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Catch at least a few thousand karambwanji.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Catch and cook a decent amount of karambwan.",
+        "type": "task",
+        "page": 6
+      },
+      {
+        "text": "Now, after having completed the previous steps, you can officially catch and cook karambwan! You'll be coming back to these for the rest of your account, due to how useful they are all the way into the late game, so get familiar with the DKP fairy ring! You can add the catching and cooking of karambwan to your AFK rota — especially if you got the fish barrel from Tempoross!",
+        "type": "note",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "section": "Combat Foundations",
+    "page": 7,
+    "entries": [
+      {
+        "text": "In this section, we'll be working on our combat stats via questing. There's a lot we'll do with combat going forward, so it'll be important to have a good baseline. This section will be composed of two subsections. The first subsection will focus on starting down the path of getting some solid melee stats, and the second will do the same but with ranged.",
+        "type": "note",
+        "page": 7
+      },
+      {
+        "text": "This section is a bit different from the last, in that it's not in a \"checklist\" style. This change is to help me be able to put more information regarding each quest/item with the table format. Instead, you can use the WikiSync functionality of the Wiki here for quests and/or click on the table item itself to \"complete\" quests.",
+        "type": "note",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "section": "Melee Quests",
+    "page": 7,
+    "entries": [
+      {
+        "text": "These melee quests will kick off our combat training by helping us skip a lot of early training levels via the experience rewards they offer.",
+        "type": "note",
+        "page": 7
+      },
+      {
+        "text": "For optimal efficiency, as well as to ensure prerequisite quests are done at the right time, it is assumed you are doing these quests in the order presented.",
+        "type": "note",
+        "page": 7
+      },
+      {
+        "text": "Going forward in the guide, it will be assumed that you have completed all of these quests.",
+        "type": "note",
+        "page": 7
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 7
+      },
+      {
+        "text": "Name Skill Requirements Combat Experience Rewards Enemies to Defeat",
+        "type": "task",
+        "page": 8
+      },
+      {
+        "text": "Khazard scorpion Khazard ogre Bouncer General Khazard (optional)",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "Fight Arena None",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "12,175",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "Tree Gnome Village None Khazard Warlord",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "11,450",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "25 18,400",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "The Grand Tree Black demon",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "2,150",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "Merlin's Crystal None None Sir Mordred Giant bat",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "15,300",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "Holy Grail Black Knight Titan",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "20",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "11,000",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "Wormbrain (optional) Zombie rat Ghost Skeleton Zombie Melzar the Mad Lesser demon Elvarg",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "18,650 18,650",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "Dragon Slayer I None",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "35,000 35,000 20,000",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "Monkey Madness I None Jungle Demon",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "20,000",
+        "type": "note",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "section": "Ranged Quests",
+    "page": 8,
+    "entries": [
+      {
+        "text": "Similar to the previous subsection, we'll be doing a handful of quests here that will help us get started on the right foot with combat, but this time with ranged.",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "For optimal efficiency, as well as to ensure prerequisite quests are done at the right time, it is assumed you are doing these quests in the order presented.",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "Going forward in the guide, it will be assumed that you have completed all of these quests.",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 8
+      },
+      {
+        "text": "Quest Skill Requirements Combat Experience Rewards Enemies to Defeat",
+        "type": "task",
+        "page": 9
+      },
+      {
+        "text": "Goblin Diplomacy None None None",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "13 17 17",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "The Lost Tribe None None",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "Death to the Dorgeshuun Sigmund 3 H.A.M. Guards",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "23 23 2,000",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "Demon Slayer None None Delrith",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "20 25",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "The Golem None None",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "Shadow of the Storm Agrith-Naar",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "30 10,000",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "Gertrude's Cat None None None",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "Icthlarin's Little Helper None None Possessed Priest Apparition",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "Prince Ali Rescue None None None",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "Contact! None Giant Scarab",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "14,000",
+        "type": "note",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "section": "Combat Gear & Stats",
+    "page": 9,
+    "entries": [
+      {
+        "text": "This section details the gear we'll want to assemble for our continued training, including information regarding how to get it. It will also include some training methods to actually get the stats necessary to buy/equip said gear. After everything is obtained, we'll train our combat stats to the following levels:",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "70 Attack 70 Strength",
+        "type": "task",
+        "page": 9
+      },
+      {
+        "text": "70 Defence",
+        "type": "task",
+        "page": 9
+      },
+      {
+        "text": "66 Ranged",
+        "type": "task",
+        "page": 9
+      },
+      {
+        "text": "75 Magic",
+        "type": "task",
+        "page": 9
+      },
+      {
+        "text": "There will be further quests and other activities in this section required to get this gear, and some of it will be bought with raw gp. The quests and activities are fairly straightforward, so just follow the order presented below — as for the purchases, I recommend going with either blackjacking or wealthy citizens to fund them.",
+        "type": "note",
+        "page": 9
+      },
+      {
+        "text": "IMPORTANT: Some of these items will require intermittent training before you'll be able to attain them. Be sure to read each subsection's preface to know when this is the case.",
+        "type": "note",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "section": "Making Some Purchases",
+    "page": 10,
+    "entries": [
+      {
+        "text": "This subsection will include our first round of purchases to make from various shops around the game.",
+        "type": "task",
+        "page": 10
+      },
+      {
+        "text": "These purchases will help in our training for future gear unlocks, so they'll be important to get first thing here.",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Below are the items to buy, their associated costs, and where to buy them:",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Gear Purchases",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Item Quest/Activity Requirements Cost Source",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Dragon scimitar Monkey Madness I 100,000 Bought from Daga in Marim.",
+        "type": "task",
+        "page": 10
+      },
+      {
+        "text": "60",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Rune platebody Dragon Slayer I 84,500 Bought from Oziach in Edgeville.",
+        "type": "task",
+        "page": 10
+      },
+      {
+        "text": "40",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Rune platelegs None 64,000 Bought from Scavvo in the Champions' Guild.",
+        "type": "task",
+        "page": 10
+      },
+      {
+        "text": "40",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Dorgeshuun crossbow The Lost Tribe 2,000 Bought from Nardok in the Dorgesh-Kaan mine.",
+        "type": "task",
+        "page": 10
+      },
+      {
+        "text": "28",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Bone bolts The Lost Tribe 3 ea Bought from Nardok in the Dorgesh-Kaan mine.",
+        "type": "task",
+        "page": 10
+      },
+      {
+        "text": "28",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Green d'hide vambraces None 2,500 Bought from Scavvo in the Champions' Guild.",
+        "type": "task",
+        "page": 10
+      },
+      {
+        "text": "40",
+        "type": "note",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "section": "Fremennik Helmets",
+    "page": 10,
+    "entries": [
+      {
+        "text": "Our first pieces of gear to go for are going to be the Fremennik helmets.",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "First we'll go for the regular helmets — the berserker helm, the archer helm, and the farseer helm — from the Fremennik Trials quest, and then we'll go for the neitiznot helm through the Fremennik Isles quest. We won't be able to wear the neitiznot helm until later when we get 55 Defence, so we'll hold onto it until then and just wear the berserker helm in the meantime.",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Below is the rough list of steps to take to accomplish all of this:",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Getting the Fremennik Helmets",
+        "type": "note",
+        "page": 10
+      },
+      {
+        "text": "Kill Borrokar for a lyre.",
+        "type": "task",
+        "page": 11
+      },
+      {
+        "text": "Complete the Fremennik Trials quest.",
+        "type": "task",
+        "page": 11
+      },
+      {
+        "text": "Complete the Daddy's Home miniquest.",
+        "type": "task",
+        "page": 11
+      },
+      {
+        "text": "Use your planks from Tempoross in your PoH to get 20 Construction.",
+        "type": "task",
+        "page": 11
+      },
+      {
+        "text": "Kill tree spirits in the Enchanted Valley with fire bolt to get a rune axe.",
+        "type": "task",
+        "page": 11
+      },
+      {
+        "text": "Cut willows in Seers' Village to get 56 Woodcutting.",
+        "type": "task",
+        "page": 11
+      },
+      {
+        "text": "Blow more of your molten glass in order to get 46 Crafting.",
+        "type": "task",
+        "page": 11
+      },
+      {
+        "text": "Complete the Fremennik Isles quest (put the experience rewards on Defence).",
+        "type": "task",
+        "page": 11
+      },
+      {
+        "text": "Buy your archer helm and farseer helm from Skulgrimen in Rellekka.",
+        "type": "task",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "section": "Two Amulets",
+    "page": 11,
+    "entries": [
+      {
+        "text": "Next up we'll be going for the amulet of strength and the amulet of power. The former will serve as our amulet for melee, while the latter will be our ranged and mage amulet.",
+        "type": "note",
+        "page": 11
+      },
+      {
+        "text": "We'll be getting both of these amulets — in their un-enchanted forms — from the H.A.M. Storerooms, and then enchanting them when we have the appropriate magic level. If you've done wealthy citizens, you might have already gotten these two amulets.",
+        "type": "note",
+        "page": 11
+      },
+      {
+        "text": "While doing this activity, be sure to wear your Rogue's outfit for double keys. Here's a gear and inventory setup for you:",
+        "type": "note",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "section": "Magic Training",
+    "page": 12,
+    "entries": [
+      {
+        "text": "Next up we're gonna train a bit of magic — specifically until level 60. Doing so will allow us to subsequently unlock both the chaos gauntlets and a god cape.",
+        "type": "note",
+        "page": 12
+      },
+      {
+        "text": "We're gonna be doing this training via safespotting blue dragons in the Dragon Nest east of Tal Teklan. There's a super easy safespot to set up, the bank is very close nearby, and there's no 70 Agility requirement like in the Taverley Dungeon. It's really a great place to stock up on some dragon bones for eventual Prayer training — which is exactly why we're doing it!",
+        "type": "note",
+        "page": 12
+      },
+      {
+        "text": "So, using the below setup, go ahead and train your Magic to level 60 by water bolt-ing the blue dragons, banking all of the dragon bones in Tal Teklan.",
+        "type": "note",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "section": "Gauntlets and a Cape",
+    "page": 12,
+    "entries": [
+      {
+        "text": "Now it's time to get the chaos gauntlets and a god cape! These two items will be attained by completing the Family Crest quest and the Mage Arena I miniquest, respectively.",
+        "type": "task",
+        "page": 12
+      },
+      {
+        "text": "In order to complete the Family Crest quest though, we do have two requirements to get first — 40 Mining and 40 Smithing.",
+        "type": "note",
+        "page": 13
+      },
+      {
+        "text": "Below is a list of steps to get those requirements and complete the quest and miniquest:",
+        "type": "note",
+        "page": 13
+      },
+      {
+        "text": "Getting the Gauntlets and Cape",
+        "type": "note",
+        "page": 13
+      },
+      {
+        "text": "Mine iron ore at the Varrock East Mine until level 30 Mining.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Mine pay-dirt in the Motherlode Mine until level 40 Mining.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Pick up two iron bars from the Sunset Coast (hop worlds).",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Kill goblins in Lumbridge until you get a chef's hat.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Enter the Cooking Guild and buy a redberry pie from Romily Weaklax.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Complete The Knight's Sword.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Complete the Sleeping Giants miniquest.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Buy iron and steel equipment from the Fortis Blacksmith and do Giants' Foundry until level 40 Smithing.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Complete the Family Crest quest.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Have Johnathon turn your steel gauntlets into chaos gauntlets.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Complete the Mage Arena I miniquest.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "Collect your god cape from the sparkling pool.",
+        "type": "task",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "section": "Melee Training",
+    "page": 13,
+    "entries": [
+      {
+        "text": "This subsection has a bit of a choice for you to make as to how you'd like to go about training some melee stats. Our goal is to get 65 Attack and 65 Strength so that we can enter the Warriors' Guild to get the dragon defender.",
+        "type": "task",
+        "page": 13
+      },
+      {
+        "text": "The two main methods I'll recommend are Slayer and Scurrius. Either are very worth our time — the former for training the skill up and the latter for getting more comfortable with PvM. We're gonna wanna get 58 Slayer before too long for the Morytania Hard Diary, so I'd definitely recommend getting at least a bit of that done now, but if you wanna sprinkle in some Scurrius that's fine too!",
+        "type": "note",
+        "page": 13
+      },
+      {
+        "text": "For the Slayer training that you do end up doing for this subsection, here are a few guidelines to follow:",
+        "type": "note",
+        "page": 13
+      },
+      {
+        "text": "Use the highest Slayer master you can based on your combat level. Use Konar every 10th task for extra slayer points. Make some ruby harvest and black warlock mixes to use as you train. Use Magic and safespot instead for black demon and hellhound tasks.",
+        "type": "note",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "section": "Dragon Defender",
+    "page": 14,
+    "entries": [
+      {
+        "text": "Now, with our 65 Attack and 65 Strength, it's time to go for the dragon defender!",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "Your Defence level should be much lower than your Attack and Strength levels at this point. You'll need 60 Defence to be able to wield the dragon defender once you get it, so just be sure to kill the cyclopes with your dragon scimitar while training Defence until you get at least level 60 Defence.",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "If you're not familiar with how the defender grind works at the Warriors' Guild, it's gonna be pretty much as simple as this method that I recommend:",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "Steps",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "1. Kill some animated mithril armour for 200-300 tokens at a time.",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "2. Kill cyclopes upstairs for bronze through rune defenders.",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "3. Repeat Step 1 anytime you run out of tokens.",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "4. Kill cyclopes downstairs for the dragon defender.",
+        "type": "note",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "section": "Ranged and Mage Armour",
+    "page": 14,
+    "entries": [
+      {
+        "text": "Now, the last two things we need to do are train for and buy our remaining ranged and magic gear!",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "We're gonna be first training our Ranged to 60 and our Magic to 63, after which we can buy the mixed hide armour and mystic robes.",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "QUICK NOTE: At this point you should do the Ernest the Chicken and Animal Magnetism quests before you start training Ranged so that you can have an Ava's device while training.",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "For training these skills, I recommend a combination of the following:",
+        "type": "note",
+        "page": 14
+      },
+      {
+        "text": "Training Methods",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Skill Method Notes",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Gemstone Crab Use your Dorgeshuun crossbow and bone bolts.",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Ranged",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Ranged",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Scurrius Only if you did some Scurrius before and got a spine to make a bone shortbow.",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Magic",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Gemstone Crab Only if you want to be really AFK.",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Scurrius Only if you did some Scurrius before and got a spine to make a bone staff.",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Magic",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Magic",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Slayer Just safespot any task you can.",
+        "type": "note",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "section": "Mage Training Arena",
+    "page": 15,
+    "entries": [
+      {
+        "text": "Now we have three items that we're gonna get from the Mage Training Arena — Bones to Peaches, the rune pouch, and the infinity boots. Getting them will not only be good for the account going forward, but it will also help us train a decent bit of Magic throughout the process of getting them, getting us closer toward our goal of 75.",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "All in all, the three items will take a little while, but not that long in the grand scheme of things — especially considering the changes that were made to the Mage Training Arena in this update.",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "Below are the approximate amounts of runes (not including elemental runes for the Enchanting Chamber) that I'd recommend buying for the obtaining of these items. I'd recommend buying them from Lundail at the Mage Arena bank. You may have a few extra of each by the end if you buy these amounts, but that's good for future stuff!",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "If you're using the third-party client RuneLite, it's recommended to enable the Mage Training Arena plugin before starting this grind. This plugin improves the experience by providing helpful overlays and clearer visual cues for each room’s mechanics, making the minigame less tedious.",
+        "type": "note",
+        "page": 15
+      },
+      {
+        "text": "MTA Runes Required",
+        "type": "task",
+        "page": 15
+      },
+      {
+        "text": "Rune Amount",
+        "type": "task",
+        "page": 15
+      },
+      {
+        "text": "Law rune 900",
+        "type": "task",
+        "page": 15
+      },
+      {
+        "text": "Nature rune 2,500",
+        "type": "task",
+        "page": 15
+      },
+      {
+        "text": "Cosmic rune 1,000",
+        "type": "task",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "section": "Training the Rest",
+    "page": 16,
+    "entries": [
+      {
+        "text": "And now that we finally have all of our necessary combat gear, we're ready to train the rest of our stats to where we want them!",
+        "type": "note",
+        "page": 16
+      },
+      {
+        "text": "As a reminder, these are the levels we're going for:",
+        "type": "note",
+        "page": 16
+      },
+      {
+        "text": "70 Attack 70 Strength",
+        "type": "task",
+        "page": 16
+      },
+      {
+        "text": "70 Defence",
+        "type": "task",
+        "page": 16
+      },
+      {
+        "text": "66 Ranged",
+        "type": "task",
+        "page": 16
+      },
+      {
+        "text": "75 Magic",
+        "type": "task",
+        "page": 16
+      },
+      {
+        "text": "This subsection is pretty simple, as I'm just gonna tell you to train these stats by continuing whatever combination of the previous methods you prefer — Slayer, Scurrius, blue dragons, etc. The only specificity I'll make is that you'll want to be sure to have the following by the end of your training:",
+        "type": "note",
+        "page": 16
+      },
+      {
+        "text": "At least level 58 Slayer As many dragon bones as you can be bothered to have gotten",
+        "type": "note",
+        "page": 16
+      },
+      {
+        "text": "Other than that, do whatever you like!",
+        "type": "note",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "section": "Starting Farming",
+    "page": 16,
+    "entries": [
+      {
+        "text": "Farming is an incredibly important skill on an ironman, so we don't wanna put it off any longer. Now that we have the Magic levels we just got in the last section, we can teleport around the map a lot more easily to do farm runs.",
+        "type": "note",
+        "page": 16
+      },
+      {
+        "text": "To start off, we're gonna quest our Farming level as high as we can, as to avoid the early levels of the skill, which are pretty painful. Then we'll start sourcing some seeds to plant — herb seeds in particular — and start planting them!",
+        "type": "note",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "section": "Farming Quests",
+    "page": 16,
+    "entries": [
+      {
+        "text": "We've already got 17 Farming from completing the Fairytale I quest, but there are a few more quests we can do to boost our Farming level all the way to 35. This questing will save us from planting things like potatoes and onions, which are really slow and painful to level through. Instead, we can just do these quests and get a decent bit of the way into the skill without planting a single seed (except for those planted during the quests, of course).",
+        "type": "note",
+        "page": 16
+      },
+      {
+        "text": "Once we're finished questing, we'll move onto some proactive Farming in the form of the Tithe Farm! But for now, here are some quests for you to work on, in this particular order:",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "Farming Quests",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "Starting Level Quest Quest Requirements Skill Requirements Ending Level",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "12 16",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "The Giant Dwarf None",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "17",
+        "type": "task",
+        "page": 17
+      },
+      {
+        "text": "17",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "33 14",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "17 22",
+        "type": "task",
+        "page": 17
+      },
+      {
+        "text": "Forgettable Tale... The Giant Dwarf Fishing Contest",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "17 25",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "25 20 25 25",
+        "type": "task",
+        "page": 17
+      },
+      {
+        "text": "Creature of Fenkenstrain Priest in Peril The Restless Ghost",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "Creature of Fenkenstrain Priest in Peril The Restless Ghost",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "25 25 30",
+        "type": "task",
+        "page": 17
+      },
+      {
+        "text": "Garden of Tranquillity",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "Garden of Death None",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "30 20 35",
+        "type": "task",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "section": "Tithe Farm",
+    "page": 17,
+    "entries": [
+      {
+        "text": "Now that we've got a decent start to our Farming level, we're gonna take it even further. We'll be spending some time at the Tithe Farm in order to get our Farming level to around 50. This will allow us to start planting some seeds we're gonna get in the next step, and also allow us to store enough reward points to unlock two things from the rewards shop: auto- weed and the herb sack. Auto-weed we'll enable right away so we only have to rake our farming patches one time ever, but the herb sack will have to wait until we get 58 Herblore in a future step in the guide (because you can't buy it without the Herblore level). For now we'll just not spend the 250 points for the herb sack.",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "I personally really like the 25x4 method, which involves doing 4 passes of 25 fruits each to get the multiple of 100 fruits that you need to get maximum points. This method can be a bit harder to get a hold on at first, especially if you're not used to tile-specific movement, but it offers great experience — and I personally think it's kinda fun!",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "Whichever method you choose (see here), go ahead and do Tithe Farm now until you have 300 points saved up!",
+        "type": "note",
+        "page": 17
+      },
+      {
+        "text": "Example of the 25x4 method tile markers.",
+        "type": "note",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "section": "Getting Seeds",
+    "page": 18,
+    "entries": [
+      {
+        "text": "Now that we've gotten through our lovely time at the Tithe Farm, it's time to get some seeds so we can actually start with our own farm runs.",
+        "type": "note",
+        "page": 18
+      },
+      {
+        "text": "Over the course of time we'll be getting tons of seeds from Slayer and other PvM, but for now we're gonna set ourselves up nice and pretty with some starter seeds from two main sources: master farmers and farming contracts. Master farmers are just a source of seeds via pickpocketing, which we're gonna work on for a little while now. Meanwhile, farming contracts are something we'll do now and (virtually) forever. They're just a great way to source seeds even far into the late-game of an ironman account, so we'll want to do them as often as we can be bothered to do them going forward.",
+        "type": "note",
+        "page": 18
+      },
+      {
+        "text": "The goal here is essentially to pickpocket master farmers in the Farming Guild for a few hours, doing farming contracts the whole time and going forward. I'll include a map link below of where the particular master farmer is that we'll be robbing.",
+        "type": "note",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "section": "Getting Supercompost",
+    "page": 18,
+    "entries": [
+      {
+        "text": "Composting your plants (except for trees) can increase your Farming yield significantly. It also decreases the chance that your plants become diseased and die. If you're interested in just how much of a difference composting makes, feel free to read into it more here on the Farming page on the Wiki. There's a lot of math that goes into it, but the gist is this: compost = good.",
+        "type": "note",
+        "page": 18
+      },
+      {
+        "text": "The second-best kind of compost is supercompost, and luckily it's super easy to get. Here are the steps to getting some supercompost. Eventually we'll add volcanic ash to the mix for ultracompost, but for now supercompost will do just fine.",
+        "type": "note",
+        "page": 18
+      },
+      {
+        "text": "Steps",
+        "type": "note",
+        "page": 19
+      },
+      {
+        "text": "1. Buy some empty bucket packs from any farming shop.",
+        "type": "note",
+        "page": 19
+      },
+      {
+        "text": "2. Buy and deposit some pineapples from charter crewmembers into the nearby deposit box on the Catherby docks.",
+        "type": "note",
+        "page": 19
+      },
+      {
+        "text": "3. Put 30 pineapples into the big compost bin in the Farming Guild and close it.",
+        "type": "note",
+        "page": 19
+      },
+      {
+        "text": "4. Wait 90 minutes (coincidentally the same length of time as an herb run).",
+        "type": "note",
+        "page": 19
+      },
+      {
+        "text": "5. Empty the resultant supercompost into your empty buckets.",
+        "type": "note",
+        "page": 19
+      },
+      {
+        "text": "6. Congratulations! You have supercompost. Repeat the above steps as necessary.",
+        "type": "note",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "section": "Starting Farm Runs",
+    "page": 19,
+    "entries": [
+      {
+        "text": "The time has finally come! We have our Farming levels, we have our seeds, and we have our supercompost — so it's time to start with some actual farm runs. For now it's really only terribly important that we start with herb runs, but if you feel inclined to do more, then go right ahead! Later on, like after we get to Perilous Moons for example, we'll be swimming in tree seeds and will want to start doing other types of farm runs, and I'll include a section in the guide for when I recommend that specifically.",
+        "type": "note",
+        "page": 19
+      },
+      {
+        "text": "As far as which herb seeds to plant, I'd just recommend doing your highest tier of seeds that you can plant (that you have) and going down from there.",
+        "type": "note",
+        "page": 19
+      },
+      {
+        "text": "I'll include a table below with information about the herb patches that we've unlocked so far, so that you can get started. When we unlock new herb patches, or access to teleports that effectively unlock new herb patches, I'll include a note for you to start incorporating them into your herb runs.",
+        "type": "note",
+        "page": 19
+      },
+      {
+        "text": "Unlocked Herb Patches",
+        "type": "note",
+        "page": 20
+      },
+      {
+        "text": "Herb Patch How to Get There Map Guide",
+        "type": "task",
+        "page": 20
+      },
+      {
+        "text": "South of Falador Teleport to Falador and run south.",
+        "type": "note",
+        "page": 20
+      },
+      {
+        "text": "West of Port Phasmatys Use fairy ring ALQ and run north.",
+        "type": "note",
+        "page": 20
+      },
+      {
+        "text": "North of Catherby Teleport to Camelot and run east.",
+        "type": "note",
+        "page": 20
+      },
+      {
+        "text": "North of Ardougne Use fairy ring BLR and run west.",
+        "type": "note",
+        "page": 20
+      },
+      {
+        "text": "South-west of Hosidius Teleport to PoH and run north. (Move your PoH to Hosidius)",
+        "type": "note",
+        "page": 21
+      },
+      {
+        "text": "West of Civitas illa Fortis Use your quetzal whistle and run north.",
+        "type": "note",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "section": "Hunters' Sunlight Crossbow",
+    "page": 21,
+    "entries": [
+      {
+        "text": "In this section we'll be working on the hunters' sunlight crossbow. It will be a very powerful weapon for us to use for Ahrim at Barrows and even more going forward. It's just a really solid crossbow in general, specifically due to its attack speed and the decently high ranged strength bonus of the sunlight antler bolts we'll be firing with it. It's the primary reason we got 66 Ranged in the previous section of combat training.",
+        "type": "note",
+        "page": 21
+      },
+      {
+        "text": "This section will be composed of a few quests to do, as well as gathering some logs to eventually take to the Vale Totems minigame.",
+        "type": "note",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "section": "Fletching Quests",
+    "page": 21,
+    "entries": [
+      {
+        "text": "The main two obstacles to overcome for getting the Hunters' sunlight crossbow are 72 Hunter to hunt sunlight antelope and 74 Fletching to use its antlers to make both the crossbow and the bolts. Luckily, by following this guide, you already have 72+ Hunter — so",
+        "type": "note",
+        "page": 21
+      },
+      {
+        "text": "we just need to work on the 74 Fletching!",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "The method we'll be using to reach 74 Fletching will be Vale Totems. This minigame requires at least 20 Fletching, and we already do have some Fletching experience from The Fremennik Trials quest, so now it's time to get the rest (and then some to get us an even better head start).",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "Below is the list of quests to do:",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "Fletching Experience Quests",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "Quest Notes",
+        "type": "task",
+        "page": 22
+      },
+      {
+        "text": "X Marks the Spot Use the 300 xp lamp on Fletching.",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "Client of Kourend Use both 500 xp lamps on Fletching.",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "The Tourist Trap Use both 4,650 xp trainings from Irena on Fletching.",
+        "type": "note",
+        "page": 22
+      }
+    ]
+  },
+  {
+    "section": "Gathering Logs",
+    "page": 22,
+    "entries": [
+      {
+        "text": "From this point, we'll get the remainder of our Fletching experience from Vale Totems. However, we need to first gather the corresponding logs to use in the minigame itself. We'll be doing a bit of Forestry in order to get these logs, which in addition will allow us to get enough anima-infused bark to be able to buy the log basket from the Forestry Shop to aid us significantly while doing Vale Totems.",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "Here are a few things to note for this section:",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "You'll notice that I'm gonna be recommending you do maple logs all the way rather than yew logs. This is because yews just take way too long to cut without a much higher Woodcutting level and a dragon axe. Be sure to buy axe upgrades from Lunami's Axe Shop in Auburnvale as you go, up to the adamant axe. Then, when you hit level 41 Woodcutting, head on over to the Enchanted Valley to get yourself a rune axe from tree spirits (using fire bolt). Consider breaking up the grind here by alternating between woodcutting and Vale Totems as you go, just for sanity reasons.",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "The table below lists the amount of logs to cut and in which location. While gathering them, be sure to participate in every Forestry event that you see.",
+        "type": "note",
+        "page": 22
+      },
+      {
+        "text": "Logs Needed for Vale Totems",
+        "type": "note",
+        "page": 23
+      },
+      {
+        "text": "Log Type Amount Needed Trees Location",
+        "type": "task",
+        "page": 23
+      },
+      {
+        "text": "Oak logs 170",
+        "type": "task",
+        "page": 23
+      },
+      {
+        "text": "Willow logs 500",
+        "type": "task",
+        "page": 23
+      },
+      {
+        "text": "Maple logs 4,020",
+        "type": "task",
+        "page": 23
+      }
+    ]
+  },
+  {
+    "section": "Vale Totems",
+    "page": 23,
+    "entries": [
+      {
+        "text": "Now that you've got your logs, it's time for some actual Vale Totems! This is, in my opinion, a pretty fun minigame with a pretty fun gameplay loop. If you've never done Vale Totems before be sure to look up a supplementary guide, as while it's fairly simple, getting some information before will help the learning curve a lot.",
+        "type": "note",
+        "page": 23
+      },
+      {
+        "text": "Aside from just straight-up doing Vale Totems until 74 Fletching, there are a couple of things I would consider as you're going about doing it:",
+        "type": "note",
+        "page": 24
+      },
+      {
+        "text": "Rummage through your vale offerings every rotation or so, as getting the fletching knife as soon as possible will make this minigame go a lot faster. Sell all greenman masks and bow string spools you get at least until you get the fletching knife, as you can buy it from Ranulph with Vale Research Points. You can always come back for these two things if you really want them, or just keep any you get after getting the fletching knife. Don't use any of the Agility shortcuts and do step on all of the ent trails before getting the fletching knife — after you get it though, you're good to take things faster and just go for experience.",
+        "type": "note",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "section": "Morytania Hard Diary",
+    "page": 24,
+    "entries": [
+      {
+        "text": "Next up is a real doozy of a step — getting the requirements for and completing the Morytania Hard Diary.",
+        "type": "note",
+        "page": 24
+      },
+      {
+        "text": "This grind is a pretty big one to do before Barrows, as it requires some fairly high stats and a decent few quests, but it will be incredibly worth it for both the extra runes from Barrows — 50% more, in fact — as well as a nice teleport to Barrows in the form of the Morytania legs 3.",
+        "type": "note",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "section": "Skill Requirements",
+    "page": 24,
+    "entries": [
+      {
+        "text": "The main two grinds here will be Agility and Prayer, as we need to get those to 71 and 70, respectively. Getting these two things done, however, will be very helpful for your account going forward. Higher level Agility, and therefore generally more run energy, is just useful all around while doing various activities. Piety will be similarly useful as it will quite drastically increase your Melee DPS when used.",
+        "type": "note",
+        "page": 24
+      },
+      {
+        "text": "Below is a table with all of the required levels for the Morytania Hard Diary, as well as how I recommend going about reaching them. Please note a few things about said table:",
+        "type": "note",
+        "page": 24
+      },
+      {
+        "text": "I won't be including the skills that you should already have by having completed earlier steps in this guide. I'll only include training method recommendations for levels past what you should already have from having completed earlier steps in this guide. I put the skills in a specific order based on later steps building off of levels gained from previous steps. As such, I'd recommend doing them in the order presented.",
+        "type": "note",
+        "page": 24
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 24
+      },
+      {
+        "text": "Morytania Hard Diary Skill Requirements",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "Level Requirement Recommended Steps",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "Run the basic Colossal Wyrm Agility Course until 62 Agility.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "71",
+        "type": "task",
+        "page": 25
+      },
+      {
+        "text": "Run the advanced Colossal Wyrm Agility Course until 71 Agility.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "Complete The Dig Site.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "55",
+        "type": "task",
+        "page": 25
+      },
+      {
+        "text": "Mine at the Motherlode Mine until 55 Mining.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "Buy and use iron and steel items from the Fortis Blacksmith shop to use at Giants' Foundry until 50 Smithing.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "50",
+        "type": "task",
+        "page": 25
+      },
+      {
+        "text": "Complete ~50 novice Mahogany Homes contracts to get 50 Construction.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "50",
+        "type": "task",
+        "page": 25
+      },
+      {
+        "text": "Blow enough of your molten glass (from earlier in the guide) into the highest glass product you can to get 45 Crafting.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "45",
+        "type": "task",
+        "page": 25
+      },
+      {
+        "text": "Cut and burn the highest level log you can burn until you have 50 Firemaking.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "50",
+        "type": "task",
+        "page": 25
+      },
+      {
+        "text": "Use this calculator to determine how many dragon bones you need based on whether you prefer to use the Chaos Altar or the libation bowl for training.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "Kill either green dragons north of Ferox Enclave with melee or blue dragons in the Dragon Nest with magic for as many dragon bones as you need.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "70",
+        "type": "task",
+        "page": 25
+      },
+      {
+        "text": "Use your dragon bones at either the Chaos Altar or the libation bowl.",
+        "type": "note",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "section": "Quest Requirements",
+    "page": 25,
+    "entries": [
+      {
+        "text": "Now that we've got all of the various necessary skill requirements for the Morytania Hard Diary, it's time to work on some quests.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "There are a decent number of them that we have to do here, but they'll also help us get ready for future grinds, such as the barrows gloves grind.",
+        "type": "note",
+        "page": 25
+      },
+      {
+        "text": "I've specifically listed these quests in an order that ensures all of the prerequisite quests are done in time for each one, so be sure to do them in the order presented:",
+        "type": "note",
+        "page": 26
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 26
+      },
+      {
+        "text": "Morytania Hard Diary Quest Requirements",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Quest Requirements Notes",
+        "type": "task",
+        "page": 27
+      },
+      {
+        "text": "Death Plateau None None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Troll Stronghold None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "15",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "You don't need a yew or magic bow for this quest. Instead, use any thrown weapon with the ice arrows equipped to kill the Fire Warrior of Lesarkus.",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "42 40",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Temple of Ikov",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "You'll need 12 magic logs for this quest. Pick one of the following options to get them:",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Get 75 Woodcutting and cut them",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "53 50 50 10",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Catch nature implings",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Desert Treasure I",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Subdue Wintertodt",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Loot the Brimstone Chest",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Kill revenants",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Complete hunter rumours",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Dwarf Cannon None None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "25 20",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Ghosts Ahoy None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "In Search of the Myreque None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "25",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "25 25 15",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "In Aid of the Myreque None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "7",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Haunted Mine None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "35",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Lair of Tarn Razorlor None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "40",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Cook's Assistant None None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Recipe for Disaster/Another Cook's Quest",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "10",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Recipe for Disaster/Freeing Pirate Pete",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "31",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "42 40 47 42 50",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Rum Deal None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Pirate's Treasure None None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "42 45 50",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "Cabin Fever None",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "40",
+        "type": "note",
+        "page": 27
+      },
+      {
+        "text": "16 30 50",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "The Great Brain Robbery None",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "20 32",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "Shilo Village None",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "36 25 18 30",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "One Small Favour None",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "Murder Mystery None None",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "King's Ransom None Be sure to complete the Knight Waves Training Grounds afterward to unlock Piety!",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "Once you've done these quests, you're all set! Go ahead and do the Morytania Hard Diary!",
+        "type": "note",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "section": "A Quick Detour",
+    "page": 28,
+    "entries": [
+      {
+        "text": "Now trust me, we're about to get to Barrows — but we've got two quick things to do first. We're gonna reroute for just a moment and unlock bird house and giant seaweed runs.",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "Since we're potentially gonna be at Barrows for a bit (praise be Arengeesus), it's a good idea to have something to break it up. Plus, the bird nests and giant seaweed that we get from these runs are best started being gathered early, so that we can have plenty of resources for Saradomin brews and superglass make later.",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "If you're curious as to why exactly I'm just now getting us to get these two unlocks, it's because we needed certain quests to be done to get enough Kudos to do the Bone Voyage quest — quests that we just did in the last section. So now we're all set to get going!",
+        "type": "note",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "section": "Unlocking Fossil Island",
+    "page": 28,
+    "entries": [
+      {
+        "text": "The first matter of business is to actually unlock Fossil Island, which is where both the bird house and giant seaweed runs take place. This unlocking is done by completing the Bone Voyage quest, so let's do that now.",
+        "type": "task",
+        "page": 28
+      },
+      {
+        "text": "Firstly, we need to talk to Historian Minas on the 2nd floor[US] of the Varrock Museum. Just select the \"I have some information which might be of use in your displays.\" chat option and you'll tell him about the Demon Slayer, Rune Mysteries, Shield of Arrav, The Grand Tree, In Aid of the Myreque,",
+        "type": "note",
+        "page": 28
+      },
+      {
+        "text": "Merlin's Crystal, Priest in Peril, and Temple of Ikov quests. Each of these quests will award you five Kudos apiece, and you'll also get two antique lamps that will grant 1,000 xp each in any skill above level 20. As you may have guessed, we're going to use these on Herblore!",
+        "type": "note",
+        "page": 29
+      },
+      {
+        "text": "Secondly, we need to do some specimen cleaning in the Varrock Museum. The following table will tell you what items you need to get until you finish it:",
+        "type": "note",
+        "page": 29
+      },
+      {
+        "text": "Notable Specimen Cleaning Finds",
+        "type": "task",
+        "page": 29
+      },
+      {
+        "text": "Item Display Case Kudos",
+        "type": "task",
+        "page": 29
+      },
+      {
+        "text": "Pottery 22 10",
+        "type": "task",
+        "page": 29
+      },
+      {
+        "text": "Old symbol 36 10",
+        "type": "task",
+        "page": 29
+      },
+      {
+        "text": "Ancient symbol 37 10",
+        "type": "task",
+        "page": 29
+      },
+      {
+        "text": "Ancient coin 44 10",
+        "type": "task",
+        "page": 29
+      },
+      {
+        "text": "Old coin 45 10",
+        "type": "task",
+        "page": 29
+      },
+      {
+        "text": "Clean necklace None 0",
+        "type": "task",
+        "page": 29
+      },
+      {
+        "text": "Once you've found each of these items, either put them in the correct display case or, in the clean necklace's case, show it to one of the nearby archaeologists. They'll teach you how to enchant a ruby necklace into a digsite pendant. Once they've taught you, you'll wanna make a dozen or so digsite pendants at a time each time you run out, in order to do your bird house and giant seaweed runs much more quickly.",
+        "type": "note",
+        "page": 29
+      },
+      {
+        "text": "Once you've completed the above steps, you're all set to go ahead and do the Bone Voyage quest, so go ahead and get that done now!",
+        "type": "note",
+        "page": 29
+      }
+    ]
+  },
+  {
+    "section": "Bird Houses",
+    "page": 29,
+    "entries": [
+      {
+        "text": "Bird house runs are pretty simple, but they're very worth doing for both the bird nests and the Hunter experience.",
+        "type": "note",
+        "page": 29
+      },
+      {
+        "text": "Before you do your first run, be sure to use a digsite pendant on the southernmost strange machine in the House on the Hill on Fossil Island to be able to teleport straight there for subsequent runs: Show map",
+        "type": "note",
+        "page": 29
+      },
+      {
+        "text": "Also be sure to unlock the use of the Mycelium Transportation System by visiting the magic mushtrees in the following location (red pins): Show map",
+        "type": "note",
+        "page": 29
+      },
+      {
+        "text": "You'll need to make some clockworks, which you can make with a steel bar at a crafting table 2 or better in the workshop of your PoH. Then just grab four of those clockworks, some logs for the highest tier of bird house you can build, some cheap seeds that you got from master farmers, and a hammer and chisel — and you're all set!",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "I'll include a table below of the types of bird houses you can build at various Hunter and Crafting levels. At this point the tier of bird house you can build will be more limited by your Crafting and Woodcutting levels, as our Hunter level is an outlier in levels because of all the hunter rumours we did earlier.",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Bird House Level Requirements",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Bird House Tier Crafting Level Hunter Level",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Regular",
+        "type": "task",
+        "page": 30
+      },
+      {
+        "text": "5 5",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Oak",
+        "type": "task",
+        "page": 30
+      },
+      {
+        "text": "15 14",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Willow",
+        "type": "task",
+        "page": 30
+      },
+      {
+        "text": "25 24",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Teak",
+        "type": "task",
+        "page": 30
+      },
+      {
+        "text": "35 34",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Maple",
+        "type": "task",
+        "page": 30
+      },
+      {
+        "text": "45 44",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Mahogany",
+        "type": "task",
+        "page": 30
+      },
+      {
+        "text": "50 49",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Yew",
+        "type": "task",
+        "page": 30
+      },
+      {
+        "text": "60 59",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Magic",
+        "type": "task",
+        "page": 30
+      },
+      {
+        "text": "75 74",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "Redwood",
+        "type": "task",
+        "page": 30
+      },
+      {
+        "text": "90 89",
+        "type": "note",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "section": "Giant Seaweed",
+    "page": 30,
+    "entries": [
+      {
+        "text": "The current ironman meta for Crafting is to gather up a ridiculous amount of giant seaweed and buckets of sand, cast the Lunar spell superglass make on them thousands of times, and then blow the resulting molten glass into various glass products. It's not super fun, but it's just the way things are, since other Crafting training methods don't even come close to the speed of this method.",
+        "type": "note",
+        "page": 30
+      },
+      {
+        "text": "As such, a big part of what we need to do to prepare for our eventual superglass make prison sentence is to gather up as much giant seaweed as possible!",
+        "type": "note",
+        "page": 31
+      },
+      {
+        "text": "First we need to gather a bunch of seaweed spores. There are a few ways to do this, but by far the easiest way is just to spend an hour or so in the underwater area in Fossil Island. Just grab your diving apparatus and fishbowl helmet from the Freeing Pirate Pete section of Recipe for Disaster, travel out to sea on one of the rowboats around Fossil Island, dive down underwater, and hang out in the area specified here: Show map. You'll see a bunch of seaweed spores spawn over the course of time, and you just need to pick them up! You can bring items to high alch, supplies to fletch, or just use it as chill time — up to you!",
+        "type": "note",
+        "page": 31
+      },
+      {
+        "text": "Once you've gathered up a bunch of seaweed spores, get to planting! Definitely start mining volcanic ash from Fossil Island and start using it on the big compost bin to make ultracompost, and use those for herb runs going forward as well. Try coupling your bird house and giant seaweed runs, as they take right around the same amount of time.",
+        "type": "note",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "section": "Barrows",
+    "page": 31,
+    "entries": [
+      {
+        "text": "Now we're ready to start with some Barrows! We would love mostly anything from the Barrows equipment sets, but the main thing we're here for is tank gear — namely a head piece, body piece, and leg piece from either the Dharok set, Guthan set, Torag set, or Verac set. These pieces of gear will eventually be our ticket to success while killing the Perilous Moons.",
+        "type": "note",
+        "page": 31
+      },
+      {
+        "text": "In addition to the Barrows equipment being very useful for us going forward, we're also going to be getting a pretty substantial amount of mind, chaos, death, and blood runes. These runes (with the exception of the mind runes) will be very useful going forward — especially during the upcoming zombie axe grind. Since we already did the Morytania Hard Diary we'll be getting 50% more runes from the Barrows chest, which is incredibly useful.",
+        "type": "note",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "section": "Setup & Strategy",
+    "page": 31,
+    "entries": [
+      {
+        "text": "Below is a gear and inventory setup displaying what we'll wear for Barrows.",
+        "type": "note",
+        "page": 31
+      },
+      {
+        "text": "If you'd like to make minor tweaks you can, but based on what we've gotten from earlier sections of this guide, this is likely what you'll want to wear/use.",
+        "type": "note",
+        "page": 31
+      },
+      {
+        "text": "If you've done Barrows before then you should pretty much get the gist of it, as it's a fairly simple boss encounter — but if you haven't, then I'd recommend either watching a YouTube guide or looking at the Wiki guide for it. You'll pick it up pretty quickly, but it's definitely better to learn a bit about how things will go before going in for the first time.",
+        "type": "note",
+        "page": 31
+      },
+      {
+        "text": "All Barrows Brothers will be fought with magic — specifically with the wind wave spell — with the exception of Ahrim, who we'll fight with ranged. The dragon scimitar will be used only for killing skeletons and bloodworms in the tunnels. The rune pouch contains the mind runes, chaos runes, and death runes that you'll get as a reward from the Barrows chest.",
+        "type": "note",
+        "page": 32
+      },
+      {
+        "text": "Here are just a few more things to know/consider:",
+        "type": "note",
+        "page": 32
+      },
+      {
+        "text": "Use the Morytania legs 3 to teleport to Mort'ton, then run west to get to Barrows. Kill all of the Brothers, two skeletons, and one bloodworm each run for maximum loot potential. Don't be afraid to use your moonlight moth mixes here — you can always easily get more!",
+        "type": "note",
+        "page": 32
+      }
+    ]
+  },
+  {
+    "section": "Some Miscellaneous Quests",
+    "page": 32,
+    "entries": [
+      {
+        "text": "This section just contains a few quests that we need to do for some future steps.",
+        "type": "note",
+        "page": 32
+      },
+      {
+        "text": "We're also gonna be working toward Barrows gloves in the not-too-distant future, so racking up those quest points is something we need to do as well — so let's do it!",
+        "type": "note",
+        "page": 32
+      }
+    ]
+  },
+  {
+    "section": "Quests List",
+    "page": 33,
+    "entries": [
+      {
+        "text": "Firstly, we'll get started with some Runecraft quests. We'll also work on a quest in the Temple Knight quest series to unlock the proselyte armour set. Then we'll continue down the Twilight Emissaries questline in order to eventually unlock the glacial temotli, as well as work on getting the Defender of Varrock quest done in order to eventually grind out the zombie axe. We'll start by working on these quests, after which we'll get to some more training and gear upgrades in the upcoming sections.",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "Below is the list of quests for you!",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "Miscellaneous Quests",
+        "type": "task",
+        "page": 33
+      },
+      {
+        "text": "Quest Requirements",
+        "type": "task",
+        "page": 33
+      },
+      {
+        "text": "Enter the Abyss None",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "Temple of the Eye",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "10",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "5 46",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "The Eyes of Glouphrie",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "Wanted! None",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "30 30 30",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "The Slug Menace",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "30",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "55",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "48 48",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "The Heart of Darkness",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "46",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "Romeo & Juliet None",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "What Lies Below",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "35",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "Below Ice Mountain None",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "Shield of Arrav None",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "55",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "Defender of Varrock",
+        "type": "note",
+        "page": 33
+      },
+      {
+        "text": "52",
+        "type": "note",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "section": "The Zombie Axe",
+    "page": 34,
+    "entries": [
+      {
+        "text": "The zombie axe is a virtually essential upgrade in the ironman meta these days, due to how much better it is than the dragon scimitar and also because of how long we'll use it before we end up getting the abyssal whip.",
+        "type": "note",
+        "page": 34
+      },
+      {
+        "text": "In this section, we'll be working on some upgrades necessary to make the zombie axe grind a bit more efficient, and then we'll get it!",
+        "type": "note",
+        "page": 34
+      }
+    ]
+  },
+  {
+    "section": "Herb Sack",
+    "page": 34,
+    "entries": [
+      {
+        "text": "Now I know this may seem like a random time to throw getting the herb sack into the mix here, but I've got some good reasons!",
+        "type": "task",
+        "page": 34
+      },
+      {
+        "text": "Firstly, the armoured zombies that we're gonna kill for the zombie axe in an upcoming step will drop a decent amount of grimy herbs that we do not wanna miss out on picking up. Secondly, we're gonna want at least 55 Herblore for Perilous Moons anyway — so that the moonlight potions act as super strength potions instead of regular strength potions — and since the herb sack requires 58 Herblore to use anyway, we'll get that 55 passively. And lastly, as we go about doing more Achievement Diaries as the guide goes on, we want to have the levels required to put the lamps on Herblore (e.g. 30 for easies and 50 for mediums), so we might as well get going on that now so that we don't miss any more opportunities to lamp Herblore.",
+        "type": "note",
+        "page": 34
+      },
+      {
+        "text": "So with all that being said, let's get going on getting that herb sack! I'm gonna put a table below here that will list the various levels at which you should do various things to get your Herblore level up. If you've been keeping up on your herb runs you should be good!",
+        "type": "note",
+        "page": 34
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 34
+      },
+      {
+        "text": "Herblore Training Methods",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Steps Quest Requirements Skill Requirements",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Desert Easy Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Complete the Falador Easy Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "30",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "21",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "9 25 20 12 25 42 20 15 11 40 20",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Fremennik Easy Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Big Chompy Bird Hunting Biohazard Cook's Assistant Doric's Quest Druidic Ritual Enter the Abyss The Fremennik Trials The Knight's Sword Nature Spirit Elemental Workshop I The Giant Dwarf Icthlarin's Little Helper Troll Stronghold",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Kandarin Easy Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Complete the Karamja Easy Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Complete the Kourend & Kebos Easy Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Complete the Lumbridge & Draynor Easy Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "20 30",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Varrock Easy Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "15 15",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Western Provinces Easy Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "47",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Wilderness Easy Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Enlightened Journey The Hand in the Sand Rune Mysteries Tower of Life Underground Pass Fairytale I - Growing Pains Sea Slug Watchtower Eagles' Peak Enakhra's Lament The Golem Spirits of the Elid Icthlarin's Little Helper Doric's Quest The Knight's Sword Recruitment Drive Skippy and the Mogres Ratcatchers Between a Rock... Horror from the Deep The Giant Dwarf Troll Stronghold Olaf's Quest Alfred Grimhand's Barcrawl Waterfall Quest",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "38 30",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Ardougne Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "50 43",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Desert Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "60 37 52 48 47 50 59 50 53 55 59 43",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Falador Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Complete the Fremennik Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Complete the Kandarin Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Complete the Karamja Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Complete the Kourend & Kebos Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "50 61",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Lumbridge & Draynor Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "45 23 65",
+        "type": "note",
+        "page": 35
+      },
+      {
+        "text": "Complete the Varrock Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Complete the Western Provinces Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 35
+      },
+      {
+        "text": "Elemental Workshop II The Grand Tree Shilo Village Dragon Slayer I Tai Bwo Wannai Trio The Ascent of Arceuus The Depths of Despair The Forsaken Tower The Queen of Thieves Tale of the Righteous Animal Magnetism Cook's Assistant The Dig Site Garden of Tranquillity Gertrude's Cat A Soul's Bane Tree Gnome Village Big Chompy Bird Hunting The Eyes of Glouphrie Monkey Madness I One Small Favour Enter the Abyss",
+        "type": "note",
+        "page": 36
+      },
+      {
+        "text": "Complete the Wilderness Medium Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 36
+      },
+      {
+        "text": "Family Crest Heroes' Quest Shield of Arrav Lost City Merlin's Crystal Dragon Slayer I Shilo Village Jungle Potion Druidic Ritual Underground Pass Biohazard Plague City Waterfall Quest",
+        "type": "note",
+        "page": 36
+      },
+      {
+        "text": "50 50 45 56 52 42 50 50",
+        "type": "note",
+        "page": 36
+      },
+      {
+        "text": "Complete Legends' Quest and use all four 30,000 xp trainings from Radimus Erkle on Herblore.",
+        "type": "task",
+        "page": 36
+      },
+      {
+        "text": "50 50",
+        "type": "note",
+        "page": 36
+      }
+    ]
+  },
+  {
+    "section": "Imbued God cape",
+    "page": 36,
+    "entries": [
+      {
+        "text": "We've had a normal god cape for a while now, but it's time to get it upgraded! We're gonna use some of the blood runes that we got from Barrows a bit ago in order to cast the god spells to get the imbued god cape. This will be particularly useful for getting extra DPS at the armoured zombies that we'll be killing for the zombie axe in the next step.",
+        "type": "note",
+        "page": 36
+      },
+      {
+        "text": "The process for doing this is the Mage Arena II miniquest. First we'll need to cast each of the god spells 100 times in the Mage Arena, after which we'll fight three powerful followers of the Gods. These followers and their respective Gods are: Justiciar Zachariah of Saradomin, Porazdir of Zamorak, and Derwen of Guthix. Each of them can only be damaged by their corresponding god spell and are found in random places throughout the Wilderness, located by using an enchanted symbol.",
+        "type": "note",
+        "page": 36
+      },
+      {
+        "text": "The god spells aren't terribly powerful, but if you have 80 Magic by now you can also cast the charge spell in order to increase their max hits from 20 to 30 for seven minutes. To use this spell you must be wearing the corresponding god cape for the god spell you're looking to use at the time (so get all three god capes if you haven't yet).",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "Each of the enemies in the miniquest also has a special attack to deal with. The table below includes each enemy, what god spell to use against them, and how to deal with their respective special attack.",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "MA II Enemies",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "Enemy God Spell to Use Special Attack Strategy",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "Justiciar Zachariah",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "Saradomin",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "When he swings his sword, avoid the shock wave that moves toward you.",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "Strike",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "When he releases a ball of energy, move at least 12 tiles away from him until it hits you. Your chatbox will say Porazdir fires a ball of energy directly linked to his Porazdir fires a ball of energy directly linked to his power! power! when this attack starts.",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "Porazdir Flames of",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "Zamorak",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "Derwen Claws of",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "When he releases balls of energy, deal 20 damage to each of them to destroy them.",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "Guthix",
+        "type": "note",
+        "page": 37
+      }
+    ]
+  },
+  {
+    "section": "Broken Zombie Axe",
+    "page": 37,
+    "entries": [
+      {
+        "text": "Now to work on getting the broken zombie axe! Once fixed, which we'll do in the next subsection, this weapon is incredibly useful, as it bridges the gap between the dragon scimitar and the abyssal whip. We'll use it primarily for Perilous Moons in the immediate future, but it will be useful elsewhere as well.",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "There are two options for how to kill the armoured zombies that drop the zombie axe: magic or melee. Magic, which involves using burst spells on the Ancient spellbook, results in much faster kills than using our dragon scimitar with melee, but it does come at the cost of using a lot of chaos and death runes. Luckily, you (likely) have a lot of those from Barrows! If you got super spooned on getting tank gear from Barrows and didn't get as many runes, then you might need to use melee instead. I've included setups for both below:",
+        "type": "note",
+        "page": 37
+      },
+      {
+        "text": "Mage Setup",
+        "type": "note",
+        "page": 38
+      },
+      {
+        "text": "Melee Setup",
+        "type": "note",
+        "page": 38
+      },
+      {
+        "text": "For a mage setup, we're going to be using an ancient staff that we can buy from Eblis after the Desert Treasure I quest that we completed before. We'll also be wearing the tank gear we got from Barrows, because like the Barrows Brothers, the armoured zombies have essentially nonexistent Magic defence. If you're familiar with bursting/barraging (stacking enemies up by running rapidly between two tiles) then you'll know what to do — otherwise, look up a guide on YouTube to see how the technique is done. I recommend using smoke burst over ice burst for these armoured zombies, as using ice burst can make them get stuck on each other too much for the extra damage to be worth it. You'll also want to bring runes for blood burst, because although you'll be praying protect from melee to negate the damage from most of the armoured zombies, there are some that use Ranged and will damage you over time. Just cast the occasional blood burst manually when you need to regain some Hitpoints.",
+        "type": "note",
+        "page": 38
+      },
+      {
+        "text": "Tank gear from any melee Barrows Brother may be used.",
+        "type": "task",
+        "page": 38
+      }
+    ]
+  },
+  {
+    "section": "70 Smithing",
+    "page": 39,
+    "entries": [
+      {
+        "text": "Now that we have the broken zombie axe, it only makes sense to get it fixed so that we can actually use it! The way to do that is to get our Smithing to level 70, at which point we can just use it on an anvil with a hammer to repair it.",
+        "type": "task",
+        "page": 39
+      },
+      {
+        "text": "The method we'll use to get 70 Smithing is through Giants' Foundry. We already spent some time at this minigame a little while ago when we were working on the Morytania Hard Diary, and it's time to head back there now again for our zombie axe.",
+        "type": "note",
+        "page": 39
+      },
+      {
+        "text": "The main thing with doing Giants' Foundry is that you need either bars or gear to melt down to make the swords. The most straightforward way to solve this is to just buy platebodies and platelegs at the Fortis Blacksmith shop in Civitas illa Fortis. Since you already have at least 50 Smithing, you'll just wanna buy enough steel and mithril platebodies and platelegs (in a 3 platebodies to 1 platelegs ratio) to get to our goal of 70 Smithing.",
+        "type": "note",
+        "page": 39
+      },
+      {
+        "text": "You can use this calculator to find out exactly how many supplies you'll need to buy.",
+        "type": "note",
+        "page": 39
+      }
+    ]
+  },
+  {
+    "section": "Some Big Upgrades",
+    "page": 39,
+    "entries": [
+      {
+        "text": "In this section we're gonna be getting some pretty serious gear upgrades. These include three major upgrades — the Barrows gloves, the fire cape, and the berserker ring — as well as a minor upgrade in the toktz-ket-xil.",
+        "type": "note",
+        "page": 39
+      },
+      {
+        "text": "First we'll get the Barrows gloves and the fire cape, after which we'll get the toktz-ket-xil to help us in getting the berserker ring.",
+        "type": "note",
+        "page": 39
+      }
+    ]
+  },
+  {
+    "section": "Barrows Gloves",
+    "page": 39,
+    "entries": [
+      {
+        "text": "The time has finally come to get some Barrows gloves. They arguably could've/should've been gotten before this part of the guide, but up until this point we've done much more mage than melee and ranged, which are where I feel that the Barrows gloves shine the most anyway. However, since we'll be doing a decent amount of melee combat in the near future with Perilous Moons, as well as some ranged combat with the Fight Caves, now's the time to get them!",
+        "type": "note",
+        "page": 39
+      },
+      {
+        "text": "With all of the questing we've already done, we've got more than the necessary 175 quest points to finish Recipe for Disaster and actually get the Barrows gloves. All that we need to do is finish up the rest of the subquests for Recipe for Disaster, do the final fights, and buy our Barrows gloves!",
+        "type": "note",
+        "page": 39
+      },
+      {
+        "text": "In the table below, I'll only list the remaining subquests we have left to do, as we've already done some in previous steps of this guide.",
+        "type": "note",
+        "page": 39
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "RFD Subquests",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Subquest Quest Requirements Skill Requirements",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Freeing the Mountain Dwarf Fishing Contest None",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Freeing the Goblin generals Goblin Diplomacy None",
+        "type": "task",
+        "page": 40
+      },
+      {
+        "text": "Big Chompy Bird Hunting Biohazard Plague City Demon Slayer Murder Mystery Nature Spirit Priest in Peril The Restless Ghost Witch's House",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Freeing the Lumbridge Guide",
+        "type": "task",
+        "page": 40
+      },
+      {
+        "text": "40",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Gertrude's Cat Shadow of the Storm Demon Slayer The Golem",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Freeing Evil Dave",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "25",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "41",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Freeing Skrach Uglogwee Big Chompy Bird Hunting",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "20",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Legends' Quest Family Crest Heroes' Quest Shield of Arrav Lost City Merlin's Crystal Dragon Slayer I Shilo Village Jungle Potion Underground Pass Biohazard Plague City Waterfall Quest",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Freeing Sir Amik Varze",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "None",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Monkey Madness I The Grand Tree Tree Gnome Village",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "70",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Freeing King Awowogei",
+        "type": "task",
+        "page": 40
+      },
+      {
+        "text": "48",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Desert Treasure I The Dig Site Temple of Ikov The Tourist Trap Troll Stronghold Death Plateau Priest in Peril Waterfall Quest Horror from the Deep Alfred Grimhand's Barcrawl",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Defeating the Culinaromancer",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "None",
+        "type": "note",
+        "page": 40
+      },
+      {
+        "text": "Once you're done, be sure to use the 20,000 xp lamp on Herblore, then go buy yourself some Barrows gloves!",
+        "type": "note",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "section": "Fire Cape",
+    "page": 41,
+    "entries": [
+      {
+        "text": "Next up is the fire cape. By this point we're more than ready gear-wise, so it's just a matter of sending it!",
+        "type": "task",
+        "page": 41
+      },
+      {
+        "text": "If you've never done the Fight Caves before, this may prove to be your first real \"test\" in your ability to stay cool under pressure. I specifically word it like that because when it comes right down to it, the Fight Caves, and Jad in particular, are really pretty simple mechanic-wise. However, \"Jad hands\" are real, and even after dozens of Fight Cave clears myself, my heart rate still rises ever so slightly when I get to Jad. Ultimately, just remember this: it's okay if it takes multiple attempts! Just give it your best shot, learn from each failed attempt, and keep at it.",
+        "type": "note",
+        "page": 41
+      },
+      {
+        "text": "I'll include my recommended setup below, with a few different tiered options based on whether you got spooned some Karil's at Barrows, whether or not you've been doing clue scrolls during the Slayer grind we did earlier, and some other things that you could go out of your way to get if you'd like to be even more prepared.",
+        "type": "note",
+        "page": 41
+      },
+      {
+        "text": "Recommended equipment for Fight Caves",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Slot Item (most effective → least effective)",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Slayer helmet (i)[1][2] Blessed coif[3] Verac's helm[4] Helm of",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Neitiznot",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Unholy symbol[2] Amulet of",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "N/A N/A",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "power",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Ava's accumulator N/A N/A N/A",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Karil's leathertop[4] Blessed body[3] Black d'hide",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Mixed hide top",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "body[3]",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Karil's leatherskirt[4] Blessed",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Black d'hide",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Mixed hide legs",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "chaps[3]",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "chaps[3]",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Hunters' sunlight",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "N/A N/A N/A",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "crossbow",
+        "type": "task",
+        "page": 42
+      },
+      {
+        "text": "Book of Law[3] Damaged book Toktz-ket-xil[2] N/A",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Sunlight antler bolts N/A N/A N/A",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Barrows gloves N/A N/A N/A",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Blessed boots[3] Mixed hide",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "N/A N/A",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "boots",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Steel ring[2] Explorer's ring",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "N/A N/A",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "2",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "1. If you'd like to hunt for a Slayer task 2. If you'd like to go out of your way for it 3. If you got spooned on clues 4. If you got spooned at Barrows",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "Below is an example setup using what you likely will use, but replace any of the gear with better options that you may have from above:",
+        "type": "note",
+        "page": 42
+      },
+      {
+        "text": "The ancient staff and rune pouch are for casting blood spells (either burst or blitz depending on your Magic level). If you're not bringing blood spells, bring a few more tuna potatoes and fewer prayer potions. I'd definitely recommend bringing blood spells if you have less defensive gear.",
+        "type": "note",
+        "page": 43
+      }
+    ]
+  },
+  {
+    "section": "Toktz-ket-xil",
+    "page": 43,
+    "entries": [
+      {
+        "text": "Next up is a quick little detour back to Mor Ul Rek to get ourselves a toktz-ket-xil.",
+        "type": "note",
+        "page": 43
+      },
+      {
+        "text": "This shield is gonna be useful for us for two specific things: having extra ranged defence for killing Dagannoth Rex in the next step, and having extra slash defence for the Perilous Moons when we get to them. These two encounters are particularly important to have high defence bonuses for, so the toktz-ket-xil will come in handy for them.",
+        "type": "note",
+        "page": 43
+      },
+      {
+        "text": "In order to get the toktz-ket-xil, we're going to sell 6,500 chaos runes to TzHaar-Mej-Roh in Mor Ul Rek while wearing our Karamja gloves 2 for the 58,500 Tokkul we need to buy it. If you still have at least 6,500 chaos runes left over from the earlier Barrows grind, then you're in luck! Just sell them to TzHaar-Mej-Roh (while wearing your Karamja gloves 2) and then buy the toktz-ket-xil from Tzhaar- Hur-Tel (while also wearing your Karamja gloves 2). If you don't have enough chaos runes, you'll need to either blackjack in Pollnivneach or pickpocket wealthy citizens in Civitas illa Fortis to get enough money to buy the chaos runes.",
+        "type": "note",
+        "page": 43
+      }
+    ]
+  },
+  {
+    "section": "Berserker Ring (i)",
+    "page": 43,
+    "entries": [
+      {
+        "text": "Next up on our seemingly never-ending list of gear upgrades before Perilous Moons we have the berserker ring! We'll spend some good quality time at Dagannoth Rex to get the berserker ring itself, and then you'll want to imbue it to get the most out of it.",
+        "type": "note",
+        "page": 43
+      },
+      {
+        "text": "I'll include a setup for both the gear and inventory to bring to Dagannoth Rex and a bit of information about how to lure him to the right spot to kill him without attracting the attention of Dagannoth Prime and Dagannoth Supreme — but if you've never soloed Dagannoth Rex before, I'd recommend watching a video to visually see how to lure him.",
+        "type": "note",
+        "page": 44
+      },
+      {
+        "text": "Tank gear from any melee Barrows Brother may be used. The prayer potions are just for getting through the Waterbirth Island Dungeon to the Dagannoth Kings. You can buy rune thrownaxes from the Tribal Weapon Salesman in the Ranging Guild. You can make pineapple pizzas easily from pineapples from charter ship shops and plain pizza from the Warrior Guild Food Shop.",
+        "type": "note",
+        "page": 44
+      },
+      {
+        "text": "Luring Rex to the south-east safespot (note that the right side of the image is north; safespot's map location shown in the upper-right).",
+        "type": "note",
+        "page": 44
+      },
+      {
+        "text": "Once you've obtained the (sometimes rather elusive) berserker ring, be sure to go get it imbued. You can do this in a few different places, but I'd recommend either the Emir's Arena for speed or the Nightmare Zone for some AFK combat training.",
+        "type": "note",
+        "page": 45
+      }
+    ]
+  },
+  {
+    "section": "Belle's Folly",
+    "page": 45,
+    "entries": [
+      {
+        "text": "Belle's folly is the stab-equivalent of the zombie axe, and since we already have the zombie axe for slash and crush, we're going to finish off the melee trifecta by getting ourselves the Belle's folly. In particular, it'll be very helpful for Perilous Moons in the fairly-near future and Tombs of Amascut in the slightly-more-distant future.",
+        "type": "note",
+        "page": 45
+      },
+      {
+        "text": "I specifically waited until after we got those big upgrades in the last section before including the Belle's folly in this guide, and that's because I wanted us to be able to have the Barrows gloves, fire cape, and berserker ring (i) while fighting the Shellbane Gryphon. Having these upgrades will make the fight a decent bit easier and more efficient.",
+        "type": "note",
+        "page": 45
+      },
+      {
+        "text": "This section will include finally getting started on Sailing in order to unlock The Great Conch where we'll fight the Shellbane Gryphon, as well as the Troubled Tortugans quest where we'll unlock the boss.",
+        "type": "note",
+        "page": 45
+      }
+    ]
+  },
+  {
+    "section": "Starting Sailing",
+    "page": 45,
+    "entries": [
+      {
+        "text": "Sailing training starts off fairly slow, but picks up as you go. We'll start off by doing some courier tasks and quests, after which you can decide if you want to go the AFK route of shipwreck salvaging, the sweaty route with some Barracuda Trials, or somewhere in- between with port tasks — or a combination of all three! Luckily, Sailing does a pretty good job of offering something for everybody in terms of training preferences.",
+        "type": "note",
+        "page": 45
+      },
+      {
+        "text": "In the table below, I'll include my own personally recommended route for training Sailing, but like I said — you can choose how/where to branch off in whatever way you'd like!",
+        "type": "note",
+        "page": 45
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 45
+      },
+      {
+        "text": "Sailing Training Methods",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "Starting",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "Level Method Other Requirements Skill Requirements",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "Ending",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "Level",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "1 5",
+        "type": "task",
+        "page": 46
+      },
+      {
+        "text": "Pandemonium None None",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "Courier tasks None None",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "5 12",
+        "type": "task",
+        "page": 46
+      },
+      {
+        "text": "12 30",
+        "type": "task",
+        "page": 46
+      },
+      {
+        "text": "Prying Times Pandemonium The Knight's Sword",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "12 14",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "Courier tasks None None",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "14 22",
+        "type": "task",
+        "page": 46
+      },
+      {
+        "text": "22 22 10 23",
+        "type": "task",
+        "page": 46
+      },
+      {
+        "text": "Current Affairs Pandemonium",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "Courier tasks None None",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "23 30",
+        "type": "task",
+        "page": 46
+      },
+      {
+        "text": "The Tempor Tantrum",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "A skiff with an iron helm and oak mast",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "30 30 45",
+        "type": "task",
+        "page": 46
+      },
+      {
+        "text": "51",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "48 45 45 40",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "45",
+        "type": "task",
+        "page": 46
+      },
+      {
+        "text": "Troubled Tortugans Pandemonium",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "46",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "34",
+        "type": "note",
+        "page": 46
+      }
+    ]
+  },
+  {
+    "section": "Black Mask (i)",
+    "page": 46,
+    "entries": [
+      {
+        "text": "There are three reasons why we want to grind out the black mask right now. Firstly, we just want to have it (or rather eventually the slayer helm) for any Slayer training going forward. Secondly, the Shellbane Gryphon must be fought on a gryphon Slayer task, so it just makes sense to have it for the extra DPS. Lastly, the black mask weighs 10kg, which is important due to a special mechanic of the Shellbane Gryphon fight that we'll talk about later.",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "So, with all of those reasons being considered, it's time to go kill some cave horrors for a black mask! I'll include a gear and inventory setup below.",
+        "type": "note",
+        "page": 46
+      },
+      {
+        "text": "You don't need a witchwood icon as long as you pray melee the entire time you're in the Mos Le'Harmless Cave. The ectophial is for getting to Port Phasmatys quickly, from where you'll take Bill Teach's ship on over to Mos Le'Harmless. Leave a few inventory spaces open for drops — there are a lot of great ones such as nature runes, seeds, and herbs! I'd recommend doing the hard clue scrolls you'll get during this grind, as there will be a lot. Be sure to bring a light source unless a fire of eternal light is lit.",
+        "type": "note",
+        "page": 47
+      },
+      {
+        "text": "Once you've obtained the black mask, be sure to go get it imbued. You can do this in a few different places, but I'd recommend either the Emir's Arena for speed or the Nightmare Zone for some AFK combat training.",
+        "type": "note",
+        "page": 47
+      }
+    ]
+  },
+  {
+    "section": "Shellbane Gryphon",
+    "page": 47,
+    "entries": [
+      {
+        "text": "The Shellbane Gryphon is definitely on the easier end of the bossing difficulty spectrum, but be sure to look up a guide if you haven't done it before. The main thing to consider is our gear setup, as the Shellbane Gryphon has a unique mechanic that deals a lot of avoidable damage to you if you weigh below 40kg specifically with your worn equipment, not including what's in your inventory.",
+        "type": "note",
+        "page": 47
+      },
+      {
+        "text": "Now, one very important point to make is that the Shellbane Gryphon can only be fought on a gryphon Slayer task. As such, you'll have to spend some quality time with Turael and/or Nieve. If you'd like, you can just use Nieve (after unlocking Wings Spread Slayer unlock) the whole way and complete each Slayer task until you get a gryphon Slayer task. Or, you can use a process called Turael Skipping to get one faster. For our use case here, this process involves getting a Slayer task with Nieve, and if it's not gryphons, getting a new, much faster Slayer task from Turael, cancelling the Slayer task from Nieve, and doing it all again until you get a gryphon Slayer task. I personally prefer the Turael Skipping method as it'll be much faster, but you can choose!",
+        "type": "note",
+        "page": 47
+      },
+      {
+        "text": "Either way, once you are ready to fight the Shellbane Gryphon, here's the gear and inventory setup I'd recommend:",
+        "type": "note",
+        "page": 47
+      },
+      {
+        "text": "The black mask weighs 10kg over the Slayer helm's 2.3kg, so we definitely want to wear it for weight. The tortugan shield must be worn during the fight to avoid a ton of unnecessary damage. The Dramen staff and Ardougne cloak 2 are for getting to the CJQ fairy ring, which is just south of the Shellbane Gryphon's Cave.",
+        "type": "note",
+        "page": 48
+      },
+      {
+        "text": "Once you get the Belle's folly (tarnished), you'll just need to take it on over to Giants' Foundry and use it on the polishing wheel, since you already have 70 Smithing from earlier when we needed to repair the broken zombie axe.",
+        "type": "note",
+        "page": 48
+      }
+    ]
+  },
+  {
+    "section": "Perilous Moons",
+    "page": 48,
+    "entries": [
+      {
+        "text": "And now, after all the prep we've been doing for-seemingly-ever, the time has come to start the Perilous Moons! If you haven't already, complete the Perilous Moons quest — then it's time to get to actually grinding the bosses.",
+        "type": "note",
+        "page": 48
+      },
+      {
+        "text": "If you've never done Perilous Moons before, I'd definitely watch a guide to familiarize yourself with the content — but as usual, I'll include a gear and inventory setup for you to follow based on what we've collected in this guide.",
+        "type": "note",
+        "page": 48
+      },
+      {
+        "text": "Essentially, we're here until we finish the collection log for the Perilous Moons. Each set of gear from each Moon, including their weapons, is going to prove incredibly useful in our account's progression going forward.",
+        "type": "note",
+        "page": 48
+      }
+    ]
+  },
+  {
+    "section": "Setup & Strategy",
+    "page": 49,
+    "entries": [
+      {
+        "text": "The main thing to know about Perilous Moons is that there are three bosses: Eclipse Moon, Blue Moon, and Blood Moon, each of which is weak to one of the melee attack styles, being stab, crush, and slash respectively. As such, we'll want to use specific weapons while fighting them, which I'll detail in this subsection below.",
+        "type": "note",
+        "page": 49
+      },
+      {
+        "text": "In terms of gear and stats we're more than ready to fight the Perilous Moons, so let's get to it! Here's the recommended setup for each boss:",
+        "type": "note",
+        "page": 49
+      },
+      {
+        "text": "Eclipse Moon",
+        "type": "note",
+        "page": 49
+      },
+      {
+        "text": "Blue Moon Blood Moon",
+        "type": "note",
+        "page": 49
+      },
+      {
+        "text": "Tank gear from any melee Barrows Brother may be used.",
+        "type": "task",
+        "page": 49
+      },
+      {
+        "text": "As for strategy, here are a couple of notes for you:",
+        "type": "note",
+        "page": 49
+      },
+      {
+        "text": "You'll create the moonlight potions and fish and cook the bream in the dungeon. If you're having trouble with Blood Moon's healing, try learning the \"step-under\" method on YouTube. I recommend \"target farming\" the Perilous Moons, meaning that once you complete a set of armour from one Moon, stop killing it and focus on the remaining one or two.",
+        "type": "note",
+        "page": 49
+      },
+      {
+        "text": "Here is a resource for learning which directions to travel when either killing all Moons or target farming.",
+        "type": "task",
+        "page": 50
+      },
+      {
+        "text": "And well, there ya go! We'll be here until we finish the Collection log for Perilous Moons. It may take a while, but it'll be incredibly worth it for the uniques and general loot!",
+        "type": "note",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "section": "Hard Achievement Diaries",
+    "page": 50,
+    "entries": [
+      {
+        "text": "Now we're going to finish up all of the hard Achievement Diaries! Not only will doing so give us various benefits throughout the game (e.g. the Ardougne Hard Diary gives a 10% boost to pickpocketing everywhere in the game), but it will also give us something we love to see even more — antique lamps for Herblore experience!",
+        "type": "note",
+        "page": 50
+      },
+      {
+        "text": "Since we've got the Song of the Elves grind coming up in not too long, we need all the Herblore experience we can get. Hopefully you've been diligent in your herb runs, as having as many herbs as possible is gonna be really important in the next little while here — but if you haven't, get diligent!",
+        "type": "note",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "section": "Skills Training",
+    "page": 50,
+    "entries": [
+      {
+        "text": "There are a decent few skills we'll need to train to complete all of the hard Achievement Diaries, and we're gonna knock all of them out right now. We've been PvMing for a while now, so hopefully the change in scenery will be nice for you! Getting these skills up will also help prepare us for that Song of the Elves grind that I mentioned earlier.",
+        "type": "note",
+        "page": 50
+      },
+      {
+        "text": "Below is a list of all of the stats you may still be missing, and how I recommend going about training them. They do somewhat build off of each other in terms of order and method.",
+        "type": "note",
+        "page": 50
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 50
+      },
+      {
+        "text": "Hard Achievement Diaries Skills Training Methods",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "Level Requirement Recommended Training Method",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "Use your maple and yew seeds throughout the rest of this section, then Tithe Farm any remaining levels.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "74",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "65",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "Do the Guardians of the Rift minigame.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "Complete adept Mahogany Homes contracts with your teak logs (turned into teak planks) from Kingdom of Miscellania.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "65",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "66",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "Do the Mastering Mixology minigame with your herbs from Farming and Kingdom of Miscellania.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "Blackjack Menaphite thugs if you want speed, pickpocket wealthy citizens if you want AFK (if you haven't gotten it yet).",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "75",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "70",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "Mine sandstone in the quarry for buckets of sand via Drew and his Sandstorm.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "Complete Lunar Diplomacy so you can superglass make with your buckets of sand and giant seaweed, then glassblow.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "70",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "Complete Slayer tasks with Nieve, using Konar every 10th Slayer task.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "72",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "Do the Giants' Foundry minigame with an 18/10 ratio of mithril/adamant equipment bought from the Fortis Blacksmith.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "75",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "Subdue Tempoross (if you haven't already gotten it from karambwan).",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "70",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "65",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "Subdue Wintertodt.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "71",
+        "type": "task",
+        "page": 51
+      },
+      {
+        "text": "Cut and bank more logs for future bird houses (if you haven't already gotten it from doing so).",
+        "type": "note",
+        "page": 51
+      }
+    ]
+  },
+  {
+    "section": "Diaries List",
+    "page": 51,
+    "entries": [
+      {
+        "text": "We've already completed the Morytania Hard Diary in a previous step in this guide, and now it's time to complete the rest of them! We've also done a decent amount of questing so far, but there will be some more still to do in this section.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "We already finished all of the stats training in the last section, so you should be good now to just do any remaining quests/activities!",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "Below is a table listing the requirements for each Achievement Diary.",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 51
+      },
+      {
+        "text": "Hard Achievement Diaries",
+        "type": "note",
+        "page": 52
+      },
+      {
+        "text": "Diary Quest Requirements Level Requirements",
+        "type": "note",
+        "page": 52
+      },
+      {
+        "text": "Enlightened Journey The Hand in the Sand Legends' Quest Monkey Madness I Mourning's End Part II Rune Mysteries Tower of Life Watchtower Fairytale II - Cure a Queen Sea Slug Contact! Desert Treasure I Dream Mentor Eagles' Peak Enakhra's Lament The Feud The Golem Spirits of the Elid Doric's Quest Grim Tales Heroes' Quest The Knight's Sword Skippy and the Mogres The Slug Menace Ratcatchers Between a Rock... Eadgar's Ruse Horror from the Deep Lunar Diplomacy Throne of Miscellania The Giant Dwarf Olaf's Quest Alfred Grimhand's Barcrawl Elemental Workshop II The Grand Tree Tai Bwo Wannai Trio The Ascent of Arceuus The Depths of Despair The Forsaken Tower The Queen of Thieves Tale of the Righteous Animal Magnetism Another Slice of H.A.M. Recipe for Disaster Tears of Guthix Garden of Tranquillity Gertrude's Cat A Soul's Bane Tree Gnome Village The Eyes of Glouphrie Swan Song Mourning's End Part I Big Chompy Bird Hunting Death Plateau",
+        "type": "note",
+        "page": 52
+      },
+      {
+        "text": "65 65 70",
+        "type": "note",
+        "page": 52
+      },
+      {
+        "text": "Complete the Ardougne Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "Complete the Desert Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "70 70",
+        "type": "note",
+        "page": 52
+      },
+      {
+        "text": "72 65 65 70 66 75 70 70 72 69 70 75",
+        "type": "note",
+        "page": 52
+      },
+      {
+        "text": "Complete the Falador Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "Complete the Fremennik Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "Complete the Kandarin Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "Complete the Karamja Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "Complete the Kourend & Kebos Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "Complete the Lumbridge & Draynor Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "70 70",
+        "type": "note",
+        "page": 52
+      },
+      {
+        "text": "Complete the Varrock Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "65 71",
+        "type": "note",
+        "page": 52
+      },
+      {
+        "text": "Complete the Western Provinces Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "74",
+        "type": "note",
+        "page": 52
+      },
+      {
+        "text": "Complete the Wilderness Hard Diary and use the antique lamp on Herblore.",
+        "type": "task",
+        "page": 52
+      },
+      {
+        "text": "Enter the Abyss Mage Arena I",
+        "type": "note",
+        "page": 53
+      },
+      {
+        "text": "And just one last thing here — with all of the water orbs you'll have gotten from the lunar chest by the end of your Perilous Moons grind, starting your daily battlestaves from Zaff is a great thing to do going forward for money. I wouldn't have done it before now, as charging your own unpowered orbs isn't terribly efficient — but if you have been doing it, then congrats; you now have a lot more water orbs to work with!",
+        "type": "note",
+        "page": 53
+      }
+    ]
+  },
+  {
+    "section": "Song of the Elves",
+    "page": 53,
+    "entries": [
+      {
+        "text": "By this point, we've done almost enough quests to have all the prerequisites for Song of the Elves, we've got most of the stats from previous grinds, and we've already got the worn equipment as well! So it's time to really lock in and get it done.",
+        "type": "note",
+        "page": 53
+      },
+      {
+        "text": "In this section we'll do the rest of our prep for the quest, at which point we'll just send it!",
+        "type": "note",
+        "page": 53
+      }
+    ]
+  },
+  {
+    "section": "One Quest",
+    "page": 53,
+    "entries": [
+      {
+        "text": "Making History is the only quest we need to do before Song of the Elves now, so let's do it!",
+        "type": "note",
+        "page": 53
+      },
+      {
+        "text": "It's a very simple quest that you shouldn't have any problems with.",
+        "type": "note",
+        "page": 53
+      },
+      {
+        "text": "Here's a very long, in-depth table for you regarding this subsection:",
+        "type": "note",
+        "page": 53
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 53
+      },
+      {
+        "text": "Making History",
+        "type": "note",
+        "page": 53
+      },
+      {
+        "text": "Quest Quest Requirements Skill Requirements",
+        "type": "note",
+        "page": 53
+      },
+      {
+        "text": "Making History Priest in Peril The Restless Ghost None",
+        "type": "note",
+        "page": 53
+      }
+    ]
+  },
+  {
+    "section": "Stats Training",
+    "page": 53,
+    "entries": [
+      {
+        "text": "Now onto the stats that we still need to train in order to do Song of the Elves.",
+        "type": "note",
+        "page": 53
+      },
+      {
+        "text": "There are only two left, since we got a decent few 70s and above during the hard Achievement Diary grind we did a bit ago, so now we can just finish the rest off really quick.",
+        "type": "task",
+        "page": 54
+      },
+      {
+        "text": "I'll include a table below with my recommended methods for getting the rest of the stats:",
+        "type": "task",
+        "page": 54
+      },
+      {
+        "text": "Display name Look up",
+        "type": "note",
+        "page": 54
+      },
+      {
+        "text": "Remaining SotE Skill Requirements",
+        "type": "note",
+        "page": 54
+      },
+      {
+        "text": "Skill Requirement Recommended Method",
+        "type": "note",
+        "page": 54
+      },
+      {
+        "text": "Complete adept Mahogany Homes with teak logs that you cut and turn into teak planks.",
+        "type": "note",
+        "page": 54
+      },
+      {
+        "text": "70",
+        "type": "task",
+        "page": 54
+      },
+      {
+        "text": "70",
+        "type": "task",
+        "page": 54
+      },
+      {
+        "text": "Do the Mastering Mixology minigame with your herbs from Farming.",
+        "type": "note",
+        "page": 54
+      }
+    ]
+  },
+  {
+    "section": "The Fragment of Seren",
+    "page": 54,
+    "entries": [
+      {
+        "text": "Once you've started the quest, everything should go pretty smoothly. The part that will potentially give you some trouble will be the infamous Fragment of Seren fight.",
+        "type": "task",
+        "page": 54
+      },
+      {
+        "text": "I'll say, first of all, that if you end up really, really having problems with this fight, you could always go do Mastering Mixology until 77 Herblore and boost to 81 Herblore with a botanical pie to make Saradomin brews, making the fight a lot easier. I'm going to assume though, for the sake of this guide, that you're not doing that and will instead just use regular food.",
+        "type": "note",
+        "page": 54
+      },
+      {
+        "text": "If you've never fought the Fragment of Seren before, this is definitely a fight to look up on YouTube and see an example or two of it. It's not that mechanically heavy, but it does have enough going on to not be a fight to go into blind.",
+        "type": "note",
+        "page": 54
+      },
+      {
+        "text": "Below, I'll go into an example setup using blood blitz on the ancient spellbook, as that will help us tremendously.",
+        "type": "note",
+        "page": 54
+      }
+    ]
+  },
+  {
+    "section": "Changes",
+    "page": 56,
+    "entries": [
+      {
+        "text": "[hide] Date Changes",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Switched out tuna potatoes for pineapple pizzas in the Fight Caves setup.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Removed the \"Unlocking Kingdom of Miscellania\" section, as it doesn't impact anything going forward in the guide.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Removed the \"Two Weapons\" section, as the zombie axe is now suggested for Perilous Moons over the sulphur blades and glacial temotli to save the time necessary to get these two weapons.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "20 May 2026",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Removed the \"Royal Titans\" section, as the mystic vigour prayer doesn't make a significant enough difference in the Fragment of Seren fight to justify it being in the guide before Song of the Elves.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Reorganized the hunters' sunlight crossbow section to separate it from the Morytania Hard Diary section.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Added a recommendation for axe upgrades during the log-gathering grind before Vale Totems.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Created a separate section for Vale Totems with some more detail.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Removed the time estimate from Tithe Farm, as differing methods will result in differing times.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "4 February 2026",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Removed some should-have-been-already-gotten requirements from the Morytania Hard Diary section.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Updated the Barrows gear recommendations to include mystic robes.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Cleaned up the herb sack section's requirements.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Added the Wanted! quest as a prerequisite for The Slug Menace in the \"Miscellaneous Quests\" section.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Switched out the dragon defender for a damaged god book in the zombie axe (mage) setup.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Moved the Mage Training Arena section from the \"Preparing for Barrows\" section to the \"Combat Gear & Stats\" section.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "18 January 2026",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Added Bones to Peaches and infinity boots to the progression in that same section.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Reworked/expanded the \"Combat Foundations\" section to be clearer and more in-depth.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "14 January 2026",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Moved The Knight's Sword and Sleeping Giants quests up to align with the above change.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Replaced the recommendation to cut yew logs for Vale Totems with just staying at maples the entire time until 74 Fletching.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "1 January 2026 Initial release detailing path from Tutorial Island through Song of the Elves.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "This page was last modified on 23 September 2026, at 04:20.",
+        "type": "note",
+        "page": 56
+      },
+      {
+        "text": "Content on this site is licensed under CC BY-NC-SA 3.0; additional terms apply. RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex.",
+        "type": "note",
+        "page": 56
+      }
+    ]
+  }
+]
