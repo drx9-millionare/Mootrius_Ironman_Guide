@@ -34,7 +34,7 @@ public class MootriusPanel extends PluginPanel {
         setLayout(new BorderLayout(0,8)); setBackground(ColorScheme.DARK_GRAY_COLOR);
         try (InputStream stream=getClass().getResourceAsStream("/guide.json")) {
             if(stream==null) throw new IOException("guide.json missing");
-            JsonArray arr=JsonParser.parseReader(new InputStreamReader(stream,StandardCharsets.UTF_8)).getAsJsonArray();
+            JsonArray arr=new JsonParser().parse(new InputStreamReader(stream,StandardCharsets.UTF_8)).getAsJsonArray();
             for(JsonElement element:arr){
                 JsonObject obj=element.getAsJsonObject(); Section s=new Section();
                 s.section=obj.get("section").getAsString(); s.page=obj.get("page").getAsInt(); s.entries=new ArrayList<>();
